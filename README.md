@@ -1,2 +1,1 @@
-![My Remote Image](https://pay.educaholic.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1LIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6fdf1cabc9be049d41f5c760a0c6b37363ffd1df/Padr%C3%A3o%20Capa%20(Horizontal)%20(1).png)
-Aprendnedo git
+![My Image](images/banner.jpg)
